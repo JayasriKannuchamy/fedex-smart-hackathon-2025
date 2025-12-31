@@ -1,0 +1,5 @@
+invoice_id,customer,amount,overdue_days
+INV001,ABC Corp,500000,45
+INV002,XYZ Ltd,120000,15
+INV003,LMN Pvt,900000,60
+INV004,PQR Inc,30000,5
