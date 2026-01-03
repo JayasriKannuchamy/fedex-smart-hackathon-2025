@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pipeline.assign_dca import assign_dca
+from data.model.pipeline.pipeline.assign_dca import assign_dca
 
 st.title("FedEx DCA Prioritization System")
 
